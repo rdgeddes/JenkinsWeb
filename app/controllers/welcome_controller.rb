@@ -7,6 +7,6 @@ class WelcomeController < ApplicationController
       end
   end
   def sample
-    @controller_message = "Hello from Git Controller"
+    @controller_message = "Hello from branch 1  Controller"
   end
 end
